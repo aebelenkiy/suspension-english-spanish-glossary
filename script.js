@@ -60,33 +60,35 @@ const filterByCategory = (selectedCategory) => {
     : data;
 };
 
-// Load JSON data and initialize the glossary
-fetch('glossary.json')
-  .then(response => response.json())
-  .then(loadedData => {
-    data = loadedData; // Store data globally
-    const categoryFilter = document.getElementById('category-filter');
+// Wrap the fetch and initialization code in DOMContentLoaded event
+document.addEventListener('DOMContentLoaded', () => {
+  fetch('glossary.json')
+    .then(response => response.json())
+    .then(loadedData => {
+      data = loadedData; // Store data globally
+      const categoryFilter = document.getElementById('category-filter');
 
-    // Populate filter dropdown
-    const categories = [...new Set(data.map(item => item.Category))];
-    categories.forEach(category => {
-      const option = document.createElement('option');
-      option.value = category;
-      option.textContent = category;
-      categoryFilter.appendChild(option);
-    });
+      // Populate filter dropdown
+      const categories = [...new Set(data.map(item => item.Category))];
+      categories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        categoryFilter.appendChild(option);
+      });
 
-    // Initial render of the table
-    renderTable(data);
+      // Initial render of the table
+      renderTable(data);
 
-    // Event listener for filtering
-    categoryFilter.addEventListener('change', () => {
-      const selectedCategory = categoryFilter.value;
-      const filteredData = filterByCategory(selectedCategory);
-      renderTable(filteredData);
-    });
+      // Event listener for filtering
+      categoryFilter.addEventListener('change', () => {
+        const selectedCategory = categoryFilter.value;
+        const filteredData = filterByCategory(selectedCategory);
+        renderTable(filteredData);
+      });
 
-    // Add sorting functionality
-    addSortingListeners();
-  })
-  .catch(error => console.error('Error loading glossary data:', error));
+      // Add sorting functionality
+      addSortingListeners();
+    })
+    .catch(error => console.error('Error loading glossary data:', error));
+});
