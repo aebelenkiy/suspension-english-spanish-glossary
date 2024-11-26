@@ -3,12 +3,12 @@
     "English Term":"adjust",
     "Part of Speech":"v.",
     "Spanish Term":"ajustar",
-    "Category":"Infection Control",
-    "Subcategory":null,
+    "Category":"Rigging",
+    "Subcategory":"General",
     "English Example":"Adjust the cord tension carefully to prevent contamination.",
     "Spanish Example":"Ajusta la tensi\u00f3n de la cuerda con cuidado para prevenir la contaminaci\u00f3n.",
     "Cross References":"rigging, tension",
-    "Notes":"Used in rigging procedures."
+    "Notes":null
   },
   {
     "English Term":"aerial rig",
@@ -19,18 +19,18 @@
     "English Example":"Check all components of the aerial rig before assembly.",
     "Spanish Example":"Revisa todos los componentes de la estructura a\u00e9rea antes del montaje.",
     "Cross References":"See: spreader bar, load path",
-    "Notes":"Portable suspension structure"
+    "Notes":null
   },
   {
     "English Term":"alcohol wipe",
     "Part of Speech":"n.",
     "Spanish Term":"toallita con alcohol",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use an alcohol wipe to prepare skin for bandages.",
     "Spanish Example":"Usa una toallita con alcohol para preparar la piel para los vendajes.",
     "Cross References":"skin preparation, disinfect",
-    "Notes":"Improves adhesion and disinfection."
+    "Notes":null
   },
   {
     "English Term":"alpine butterfly",
@@ -41,51 +41,40 @@
     "English Example":"The alpine butterfly creates an in-line anchor point.",
     "Spanish Example":"La mariposa alpina crea un punto de anclaje en l\u00ednea.",
     "Cross References":"See: knot, termination",
-    "Notes":"Can be loaded in multiple directions"
-  },
-  {
-    "English Term":"apron sleeves",
-    "Part of Speech":"n.",
-    "Spanish Term":"mangas del delantal",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Put on apron sleeves by poking a hole for the thumb.",
-    "Spanish Example":"Ponte las mangas del delantal haciendo un agujero para el pulgar.",
-    "Cross References":"don, PPE",
-    "Notes":"Protective clothing for infection control."
+    "Notes":null
   },
   {
     "English Term":"aseptic",
     "Part of Speech":"adj.",
     "Spanish Term":"as\u00e9ptico",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Aseptic procedures reduce the risk of infection.",
     "Spanish Example":"Los procedimientos as\u00e9pticos reducen el riesgo de infecci\u00f3n.",
     "Cross References":"sterile, clean",
-    "Notes":"Free from contamination."
+    "Notes":null
   },
   {
     "English Term":"attach",
     "Part of Speech":"v.",
     "Spanish Term":"adjuntar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Attach the cord to the hooks using shackles.",
     "Spanish Example":"Adjunta la cuerda a los ganchos usando grilletes.",
     "Cross References":"connect, secure",
-    "Notes":"Ensures a secure suspension setup."
+    "Notes":null
   },
   {
     "English Term":"bandage\/plaster",
     "Part of Speech":"n.",
     "Spanish Term":"vendaje",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Cover the wound with a bandage to protect it.",
     "Spanish Example":"Cubre la herida con un vendaje para protegerla.",
     "Cross References":"wound treatment, clean assistant",
-    "Notes":"Used after cleaning wounds."
+    "Notes":null
   },
   {
     "English Term":"beam clamp",
@@ -96,161 +85,150 @@
     "English Example":"Install beam clamps with opposing openings.",
     "Spanish Example":"Instala las abrazaderas de viga con aberturas opuestas.",
     "Cross References":"See: gravlock",
-    "Notes":"Also known as gravlock"
+    "Notes":null
   },
   {
     "English Term":"belay",
-    "Part of Speech":"n.",
+    "Part of Speech":"v.",
     "Spanish Term":"asegurar",
     "Category":"Rigging",
-    "Subcategory":null,
-    "English Example":"The belay is used to raise and lower the suspendee in a safe and controlled manner.",
-    "Spanish Example":"El aseguramiento se utiliza para subir y bajar al suspendido de manera segura y controlada.",
+    "Subcategory":"General",
+    "English Example":"The rigger belays the rope to ensure the suspendee is raised and lowered safely.",
+    "Spanish Example":"El instalador asegura la cuerda para garantizar que el suspendido se suba y baje de manera segura.",
     "Cross References":"descent device, harness",
-    "Notes":"Often modified for body suspension."
+    "Notes":null
   },
   {
     "English Term":"belayer",
     "Part of Speech":"n.",
     "Spanish Term":"asegurador",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The belayer must remain attentive to the suspendee throughout the suspension.",
     "Spanish Example":"El asegurador debe permanecer atento al suspendido durante toda la suspensi\u00f3n.",
     "Cross References":"belay, harness",
-    "Notes":"May use personal or fixed attachment points."
+    "Notes":null
   },
   {
     "English Term":"bio assistant",
     "Part of Speech":"n.",
     "Spanish Term":"asistente contaminado",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The bio assistant handles contaminated items and individuals.",
     "Spanish Example":"El asistente contaminado maneja art\u00edculos e individuos contaminados.",
     "Cross References":"clean assistant, PPE",
-    "Notes":"Requires specific PPE adherence."
+    "Notes":null
   },
   {
     "English Term":"biohazard container",
     "Part of Speech":"n.",
     "Spanish Term":"contenedor de residuos biol\u00f3gicos",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Place contaminated hooks in a biohazard container.",
     "Spanish Example":"Coloca los ganchos contaminados en un contenedor de residuos biol\u00f3gicos.",
     "Cross References":"contaminated waste, hook processing",
-    "Notes":"Designated for biological waste."
+    "Notes":null
   },
   {
-    "English Term":"bloodborne",
-    "Part of Speech":"adj.",
-    "Spanish Term":"transmitido por sangre",
+    "English Term":"blood",
+    "Part of Speech":"n.",
+    "Spanish Term":"sangre",
     "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Hygiene standards are necessary to prevent bloodborne infections.",
-    "Spanish Example":"Los est\u00e1ndares de higiene son necesarios para prevenir infecciones transmitidas por sangre.",
+    "Subcategory":"General",
+    "English Example":"Wipe away any visible blood from the suspendee carefully.",
+    "Spanish Example":"Limpia cuidadosamente cualquier sangre visible del suspendido.",
+    "Cross References":"wound, clean",
+    "Notes":null
+  },
+  {
+    "English Term":"bloodborne pathogen",
+    "Part of Speech":"adj.",
+    "Spanish Term":"pat\u00f3geno transmitido por sangre",
+    "Category":"Infection Control",
+    "Subcategory":"General",
+    "English Example":"Hygiene standards are necessary to prevent bloodborne pathogen transmission.",
+    "Spanish Example":"Los est\u00e1ndares de higiene son necesarios para prevenir la transmisi\u00f3n de pat\u00f3genos transmitidos por sangre.",
     "Cross References":"PPE, infection",
-    "Notes":"Includes pathogens like HBV and HIV."
+    "Notes":null
   },
   {
     "English Term":"breakdown",
     "Part of Speech":"n.",
     "Spanish Term":"desmontaje",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The breakdown process involves removing all contaminated waste.",
     "Spanish Example":"El proceso de desmontaje incluye la eliminaci\u00f3n de todos los desechos contaminados.",
     "Cross References":"dispose, clean",
-    "Notes":"Final step in the procedure."
+    "Notes":null
   },
   {
     "English Term":"butane torch",
     "Part of Speech":"n.",
     "Spanish Term":"soplete de butano",
-    "Category":"Safety",
-    "Subcategory":null,
+    "Category":"Rigging",
+    "Subcategory":"Tools",
     "English Example":"A butane torch should be on hand to seal cord ends during suspension.",
     "Spanish Example":"Debe haber un soplete de butano disponible para sellar los extremos del cord\u00f3n durante la suspensi\u00f3n.",
     "Cross References":"safety shears, termination",
-    "Notes":"Used for sealing and emergency repairs."
-  },
-  {
-    "English Term":"cable tie",
-    "Part of Speech":"n.",
-    "Spanish Term":"brida pl\u00e1stica",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Seal full waste bags with a plastic cable tie.",
-    "Spanish Example":"Sella las bolsas de desechos llenas con una brida pl\u00e1stica.",
-    "Cross References":"contaminated waste, disposal",
-    "Notes":"Used for securing waste bags."
+    "Notes":null
   },
   {
     "English Term":"check",
     "Part of Speech":"v.",
     "Spanish Term":"revisar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Check that the face mask fits snugly before beginning.",
     "Spanish Example":"Revisa que la mascarilla ajuste bien antes de comenzar.",
     "Cross References":"inspect, verify",
-    "Notes":"Encourages proactive safety."
+    "Notes":null
   },
   {
     "English Term":"clean",
     "Part of Speech":"v.",
     "Spanish Term":"limpiar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Clean the skin with an appropriate disinfectant.",
     "Spanish Example":"Limpia la piel con un desinfectante adecuado.",
     "Cross References":"disinfect, prepare",
-    "Notes":"Used in skin preparation."
+    "Notes":null
   },
   {
     "English Term":"clean",
     "Part of Speech":"adj.",
     "Spanish Term":"limpio",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Ensure all equipment is clean before use.",
     "Spanish Example":"Aseg\u00farate de que todo el equipo est\u00e9 limpio antes de usarlo.",
     "Cross References":"sterile, disinfected",
-    "Notes":"Essential for infection control."
+    "Notes":null
   },
   {
     "English Term":"clean assistant",
     "Part of Speech":"n.",
     "Spanish Term":"asistente limpio",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The clean assistant handles supplies with clean gloved hands only.",
     "Spanish Example":"El asistente limpio maneja los suministros solo con guantes limpios.",
     "Cross References":"bio assistant, sterile gloves",
-    "Notes":"Ensures no contamination of clean supplies."
-  },
-  {
-    "English Term":"clean assistant",
-    "Part of Speech":"n.",
-    "Spanish Term":"asistente limpio",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"The clean assistant handles sterile supplies and clean tools.",
-    "Spanish Example":"El asistente limpio maneja suministros est\u00e9riles y herramientas limpias.",
-    "Cross References":"bio assistant, setup",
-    "Notes":"Assigned specific roles in procedures."
+    "Notes":null
   },
   {
     "English Term":"climbing helmet",
     "Part of Speech":"n.",
     "Spanish Term":"casco de escalada",
-    "Category":"Safety",
-    "Subcategory":null,
+    "Category":"Rigging",
+    "Subcategory":"PPE",
     "English Example":"A climbing helmet must be worn when working at height.",
     "Spanish Example":"Se debe usar un casco de escalada al trabajar en altura.",
     "Cross References":"harness, rigger",
-    "Notes":"Inspect for cracks, deformities, and proper strap function."
+    "Notes":null
   },
   {
     "English Term":"clove hitch",
@@ -261,7 +239,7 @@
     "English Example":"The clove hitch must be backed up to avoid slipping.",
     "Spanish Example":"El cote debe tener respaldo para evitar deslizamiento.",
     "Cross References":"See: half hitch, knot",
-    "Notes":"Adjustable but requires backup"
+    "Notes":null
   },
   {
     "English Term":"connector",
@@ -272,172 +250,128 @@
     "English Example":"Choose appropriate connectors based on load requirements.",
     "Spanish Example":"Elige los conectores apropiados seg\u00fan los requisitos de carga.",
     "Cross References":"See: carabiner, maillon",
-    "Notes":"Includes carabiners, maillons, shackles"
+    "Notes":null
   },
   {
     "English Term":"contaminated",
     "Part of Speech":"adj.",
     "Spanish Term":"contaminado",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Dispose of all contaminated items properly.",
     "Spanish Example":"Elimina todos los art\u00edculos contaminados de forma adecuada.",
     "Cross References":"dirty, bio assistant",
-    "Notes":"Avoid contact with clean items."
-  },
-  {
-    "English Term":"contaminated waste bin",
-    "Part of Speech":"n.",
-    "Spanish Term":"contenedor de desechos contaminados",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Dispose of used materials in the contaminated waste bin.",
-    "Spanish Example":"Elimina los materiales usados en el contenedor de desechos contaminados.",
-    "Cross References":"breakdown, dispose",
-    "Notes":"Prevents cross-contamination."
+    "Notes":null
   },
   {
     "English Term":"cord",
     "Part of Speech":"n.",
     "Spanish Term":"cuerda",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Dispose of contaminated cord after use.",
     "Spanish Example":"Elimina la cuerda contaminada despu\u00e9s de usarla.",
     "Cross References":"contaminated waste bin, rigging",
-    "Notes":"Single-use to prevent infection."
+    "Notes":"Cuerda refers to both rig line and main line."
   },
   {
     "English Term":"descent device",
     "Part of Speech":"n.",
     "Spanish Term":"dispositivo de descenso",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use a suitable descent device for controlled lowering.",
     "Spanish Example":"Usa un dispositivo de descenso adecuado para bajar de manera controlada.",
     "Cross References":"belay, dynamic load",
-    "Notes":"Must be inspected for proper function before use."
+    "Notes":null
   },
   {
     "English Term":"disinfect",
     "Part of Speech":"v.",
     "Spanish Term":"desinfectar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Disinfect the rig after removing all contaminated components.",
     "Spanish Example":"Desinfecta el equipo despu\u00e9s de retirar todos los componentes contaminados.",
     "Cross References":"clean, wipe",
-    "Notes":"Essential for hygiene maintenance."
+    "Notes":null
   },
   {
     "English Term":"disinfectant wipe",
     "Part of Speech":"n.",
     "Spanish Term":"toallita desinfectante",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use a disinfectant wipe to clean the rig after use.",
     "Spanish Example":"Usa una toallita desinfectante para limpiar el equipo despu\u00e9s de usarlo.",
     "Cross References":"clean, hardware",
-    "Notes":"Essential for cleaning surfaces and tools."
+    "Notes":null
   },
   {
     "English Term":"disposable",
     "Part of Speech":"adj.",
     "Spanish Term":"desechable",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Plastic aprons and gloves must be disposable.",
     "Spanish Example":"Los delantales y guantes pl\u00e1sticos deben ser desechables.",
     "Cross References":"single-use, sterile",
-    "Notes":"Prevents cross-contamination."
+    "Notes":null
   },
   {
     "English Term":"dispose",
     "Part of Speech":"v.",
     "Spanish Term":"eliminar",
     "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Dispose of used gloves in a biohazard container.",
-    "Spanish Example":"Elimina los guantes usados en un contenedor de desechos biol\u00f3gicos.",
-    "Cross References":"remove, discard",
-    "Notes":"Proper disposal prevents infection spread."
-  },
-  {
-    "English Term":"dispose",
-    "Part of Speech":"v.",
-    "Spanish Term":"eliminar",
-    "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Dispose of contaminated gloves in the waste bin.",
     "Spanish Example":"Elimina los guantes contaminados en el contenedor de basura.",
     "Cross References":"remove, discard",
-    "Notes":"Prevents reuse or contamination."
+    "Notes":null
   },
   {
     "English Term":"dry",
     "Part of Speech":"v.",
     "Spanish Term":"secar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Allow the ink to dry before proceeding with piercing.",
     "Spanish Example":"Deja que la tinta se seque antes de proceder con la perforaci\u00f3n.",
     "Cross References":"wait, prepare",
-    "Notes":"Part of preparation steps."
+    "Notes":null
   },
   {
     "English Term":"dynamic load",
     "Part of Speech":"n.",
     "Spanish Term":"carga din\u00e1mica",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Dynamic loads can exceed static loads significantly.",
     "Spanish Example":"Las cargas din\u00e1micas pueden exceder significativamente las cargas est\u00e1ticas.",
     "Cross References":"See: static load, peak load",
-    "Notes":"Force that changes over time"
-  },
-  {
-    "English Term":"ensure",
-    "Part of Speech":"v.",
-    "Spanish Term":"asegurar",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Ensure all tools are inspected before use.",
-    "Spanish Example":"Asegura que todas las herramientas sean inspeccionadas antes de usar.",
-    "Cross References":"verify, check",
-    "Notes":"Encourages accountability."
+    "Notes":null
   },
   {
     "English Term":"enzymatic gel",
     "Part of Speech":"n.",
     "Spanish Term":"gel enzim\u00e1tico",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use enzymatic gel to keep organic matter from drying on hooks.",
     "Spanish Example":"Usa gel enzim\u00e1tico para evitar que la materia org\u00e1nica se seque en los ganchos.",
     "Cross References":"hook processing, clean assistant",
-    "Notes":"A cleaning aid for reusable tools."
-  },
-  {
-    "English Term":"exam gloves",
-    "Part of Speech":"n.",
-    "Spanish Term":"guantes de examen",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Exam gloves are single-use and disposable.",
-    "Spanish Example":"Los guantes de examen son de un solo uso y desechables.",
-    "Cross References":"sterile gloves, skin preparation",
-    "Notes":"Used during setup and basic handling."
+    "Notes":null
   },
   {
     "English Term":"facemask",
     "Part of Speech":"n.",
     "Spanish Term":"mascarilla",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"PPE",
     "English Example":"Ensure your facemask is clean and properly fitted.",
     "Spanish Example":"Aseg\u00farate de que tu mascarilla est\u00e9 limpia y bien ajustada.",
     "Cross References":"PPE, eyewear",
-    "Notes":"Single-use and disposable."
+    "Notes":null
   },
   {
     "English Term":"figure 8 follow through",
@@ -448,7 +382,7 @@
     "English Example":"Use a figure 8 follow through for heavier dynamic loads.",
     "Spanish Example":"Usa un nudo de ocho reanudado para cargas din\u00e1micas m\u00e1s pesadas.",
     "Cross References":"See: termination, knot",
-    "Notes":"Strong termination for dynamic loads"
+    "Notes":null
   },
   {
     "English Term":"fisherman's knot",
@@ -459,29 +393,40 @@
     "English Example":"The double fisherman's can be used as a barrel knot.",
     "Spanish Example":"El pescador doble puede usarse como nudo de barril.",
     "Cross References":"See: knot, termination",
-    "Notes":"Used for joining cord ends"
+    "Notes":null
   },
   {
     "English Term":"gauze",
     "Part of Speech":"n.",
     "Spanish Term":"gasa",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use sterile gauze for skin cleaning and post-suspension care.",
     "Spanish Example":"Usa gasa est\u00e9ril para limpiar la piel y el cuidado post-suspensi\u00f3n.",
     "Cross References":"sterile drape, skin preparation",
-    "Notes":"Single-use and disposable."
+    "Notes":null
   },
   {
     "English Term":"gear inspection",
     "Part of Speech":"n.",
     "Spanish Term":"inspecci\u00f3n del equipo",
     "Category":"Maintenance",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Gear inspection must be carried out before, during, and after use.",
     "Spanish Example":"La inspecci\u00f3n del equipo debe realizarse antes, durante y despu\u00e9s de su uso.",
     "Cross References":"round sling, maillon rapides",
-    "Notes":"Includes visual and tactile checks for wear, deformation, and functionality."
+    "Notes":null
+  },
+  {
+    "English Term":"gloves (exam gloves)",
+    "Part of Speech":"n.",
+    "Spanish Term":"guantes de examen",
+    "Category":"Infection Control",
+    "Subcategory":"PPE",
+    "English Example":"Exam gloves are single-use and disposable.",
+    "Spanish Example":"Los guantes de examen son de un solo uso y desechables.",
+    "Cross References":"sterile gloves, skin preparation",
+    "Notes":null
   },
   {
     "English Term":"half hitch",
@@ -492,29 +437,29 @@
     "English Example":"Use half hitches to lock other knots in place.",
     "Spanish Example":"Usa medios cotes para asegurar otros nudos en su lugar.",
     "Cross References":"See: clove hitch",
-    "Notes":"Used as backup"
+    "Notes":null
   },
   {
     "English Term":"hand washing",
     "Part of Speech":"n.",
     "Spanish Term":"lavado de manos",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Hand washing is required before and after handling individuals.",
     "Spanish Example":"El lavado de manos es obligatorio antes y despu\u00e9s de manejar a las personas.",
     "Cross References":"WHO guidelines, infection",
-    "Notes":"Follow WHO-approved procedures."
+    "Notes":null
   },
   {
     "English Term":"handle",
     "Part of Speech":"v.",
     "Spanish Term":"manipular",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Handle all supplies with clean or gloved hands.",
     "Spanish Example":"Manipula todos los suministros con manos limpias o con guantes.",
     "Cross References":"use, carry",
-    "Notes":"Important for maintaining hygiene."
+    "Notes":null
   },
   {
     "English Term":"hook",
@@ -525,18 +470,18 @@
     "English Example":"Select hooks based on the type of suspension.",
     "Spanish Example":"Selecciona los ganchos seg\u00fan el tipo de suspensi\u00f3n.",
     "Cross References":"See: hardware",
-    "Notes":"Types include open, semi-locking, locking"
+    "Notes":null
   },
   {
     "English Term":"inspect",
     "Part of Speech":"v.",
     "Spanish Term":"inspeccionar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Inspect all supplies for damage or contamination.",
     "Spanish Example":"Inspecciona todos los suministros por da\u00f1os o contaminaci\u00f3n.",
     "Cross References":"check, examine",
-    "Notes":"Must be thorough and regular."
+    "Notes":null
   },
   {
     "English Term":"ladder",
@@ -547,172 +492,161 @@
     "English Example":"Secure the ladder at top and bottom before climbing.",
     "Spanish Example":"Asegura la escalera en la parte superior e inferior antes de subir.",
     "Cross References":"See: beam clamp",
-    "Notes":"Must follow 4:1 ratio for extension"
+    "Notes":null
   },
   {
     "English Term":"load path",
     "Part of Speech":"n.",
     "Spanish Term":"l\u00ednea de carga",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"All elements in the load path must be inspected.",
     "Spanish Example":"Todos los elementos en la l\u00ednea de carga deben ser inspeccionados.",
     "Cross References":"See: load bearing hardware",
-    "Notes":"Refers to all connected elements supporting weight"
+    "Notes":null
   },
   {
     "English Term":"lubricant",
     "Part of Speech":"n.",
     "Spanish Term":"lubricante",
-    "Category":"Infection Control",
-    "Subcategory":null,
+    "Category":"Piercing",
+    "Subcategory":"General",
     "English Example":"Apply lubricant to the needle before insertion.",
     "Spanish Example":"Aplica lubricante a la aguja antes de la inserci\u00f3n.",
     "Cross References":"piercing, clean",
-    "Notes":"Prevents damage to tissue and needle tips."
+    "Notes":null
   },
   {
     "English Term":"mainline",
     "Part of Speech":"n.",
     "Spanish Term":"l\u00ednea principal",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The mainline rope should be semi-static or low-stretch.",
     "Spanish Example":"La l\u00ednea principal debe ser semi-est\u00e1tica o de baja elongaci\u00f3n.",
     "Cross References":"See: cord, rope",
-    "Notes":"Usually 10-12mm in diameter"
+    "Notes":null
   },
   {
     "English Term":"marker",
     "Part of Speech":"n.",
     "Spanish Term":"marcador",
-    "Category":"Infection Control",
-    "Subcategory":null,
+    "Category":"Piercing",
+    "Subcategory":"General",
     "English Example":"Use a sterile marker for marking hook placement.",
     "Spanish Example":"Usa un marcador est\u00e9ril para marcar la colocaci\u00f3n del gancho.",
     "Cross References":"skin preparation, piercing",
-    "Notes":"Non-toxic and skin-safe."
+    "Notes":null
   },
   {
     "English Term":"massage table",
     "Part of Speech":"n.",
     "Spanish Term":"mesa de masaje",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The clean assistant must avoid contact with the dirty massage table.",
     "Spanish Example":"El asistente limpio debe evitar el contacto con la mesa de masaje contaminada.",
     "Cross References":"bio assistant",
-    "Notes":"Used for suspendee post-care."
+    "Notes":null
   },
   {
     "English Term":"mechanical advantage (MA)",
     "Part of Speech":"n.",
     "Spanish Term":"ventaja mec\u00e1nica",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The pulley system provides mechanical advantage.",
     "Spanish Example":"El sistema de poleas proporciona ventaja mec\u00e1nica.",
     "Cross References":"See: pulley system",
-    "Notes":"Ratio of output force to input force"
+    "Notes":null
   },
   {
     "English Term":"minimum breaking strength (MBS)",
     "Part of Speech":"n.",
     "Spanish Term":"resistencia m\u00ednima a la rotura",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The MBS must be verified for all equipment.",
     "Spanish Example":"La resistencia m\u00ednima a la rotura debe ser verificada para todo el equipo.",
     "Cross References":"See: WLL, factor of safety",
-    "Notes":"Maximum force before material failure"
+    "Notes":null
   },
   {
     "English Term":"needle",
     "Part of Speech":"n.",
     "Spanish Term":"aguja",
-    "Category":"Infection Control",
-    "Subcategory":null,
+    "Category":"Piercing",
+    "Subcategory":"General",
     "English Example":"Insert the hook into the needle end before piercing.",
     "Spanish Example":"Inserta el gancho en el extremo de la aguja antes de perforar.",
     "Cross References":"piercing, sterile",
-    "Notes":"Single-use, disposed after each piercing."
+    "Notes":null
   },
   {
     "English Term":"OPIM",
     "Part of Speech":"n.",
     "Spanish Term":"otros materiales infecciosos potenciales",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Hooks must be wiped free of blood and OPIM before sterilization.",
     "Spanish Example":"Los ganchos deben limpiarse de sangre y OPIM antes de esterilizarlos.",
     "Cross References":"blood, hook processing",
-    "Notes":"Part of infection control terminology."
-  },
-  {
-    "English Term":"gloves",
-    "Part of Speech":"n.",
-    "Spanish Term":"guantes",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Remove outer gloves after cleaning all wounds.",
-    "Spanish Example":"Retira los guantes externos despu\u00e9s de limpiar todas las heridas.",
-    "Cross References":"gloves, PPE",
-    "Notes":"A layer for added safety during procedures."
+    "Notes":null
   },
   {
     "English Term":"personal protective equipment (PPE)",
     "Part of Speech":"n.",
     "Spanish Term":"equipo de protecci\u00f3n personal (EPP)",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"PPE",
     "English Example":"All workers must use appropriate personal protective equipment.",
     "Spanish Example":"Todos los trabajadores deben usar equipo de protecci\u00f3n personal adecuado.",
     "Cross References":"sterile gloves, facemask",
-    "Notes":"Includes gloves, masks, and aprons."
+    "Notes":null
   },
   {
     "English Term":"piercer",
     "Part of Speech":"n.",
     "Spanish Term":"perforador",
-    "Category":"Infection Control",
-    "Subcategory":null,
+    "Category":"Piercing",
+    "Subcategory":"General",
     "English Example":"The piercer is responsible for the aseptic piercing of individuals.",
     "Spanish Example":"El perforador es responsable de la perforaci\u00f3n as\u00e9ptica de los individuos.",
     "Cross References":"Piercing, sterile gloves",
-    "Notes":"Handles sterile tools during piercing."
+    "Notes":null
   },
   {
     "English Term":"plastic apron",
     "Part of Speech":"n.",
     "Spanish Term":"delantal pl\u00e1stico",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"PPE",
     "English Example":"Plastic aprons are single-use and protect against contamination.",
     "Spanish Example":"Los delantales pl\u00e1sticos son de un solo uso y protegen contra la contaminaci\u00f3n.",
     "Cross References":"PPE, plastic sleeves",
-    "Notes":"Provides an additional barrier."
+    "Notes":null
   },
   {
     "English Term":"plastic sleeves",
     "Part of Speech":"n.",
     "Spanish Term":"mangas pl\u00e1sticas",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"PPE",
     "English Example":"Plastic sleeves protect the arms from contamination.",
     "Spanish Example":"Las mangas pl\u00e1sticas protegen los brazos de la contaminaci\u00f3n.",
     "Cross References":"PPE, plastic apron",
-    "Notes":"Used in high-exposure areas."
+    "Notes":null
   },
   {
     "English Term":"prepare",
     "Part of Speech":"v.",
     "Spanish Term":"preparar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Prepare the area with sterile gauze and skin cleaner.",
     "Spanish Example":"Prepara el \u00e1rea con gasa est\u00e9ril y limpiador de piel.",
     "Cross References":"setup, cleanse",
-    "Notes":"Includes marking and cleaning steps."
+    "Notes":null
   },
   {
     "English Term":"pulley",
@@ -723,51 +657,29 @@
     "English Example":"Marine style pulleys offer high strength to weight ratio.",
     "Spanish Example":"Las poleas estilo marino ofrecen una alta relaci\u00f3n resistencia-peso.",
     "Cross References":"See: mechanical advantage",
-    "Notes":"Available in marine and climbing styles"
+    "Notes":null
   },
   {
     "English Term":"put on (e.g. gloves)",
     "Part of Speech":"v.",
     "Spanish Term":"ponerse",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Don gloves and apron sleeves before handling supplies.",
     "Spanish Example":"Ponte guantes y mangas del delantal antes de manejar suministros.",
     "Cross References":"PPE, preparation",
-    "Notes":"Used in infection control protocols."
+    "Notes":null
   },
   {
     "English Term":"remove",
     "Part of Speech":"v.",
     "Spanish Term":"quitar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Remove gloves carefully to avoid contamination.",
     "Spanish Example":"Quita los guantes con cuidado para evitar la contaminaci\u00f3n.",
     "Cross References":"dispose, don",
-    "Notes":"Essential after handling dirty items."
-  },
-  {
-    "English Term":"replace",
-    "Part of Speech":"v.",
-    "Spanish Term":"reemplazar",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Replace gloves after handling contaminated materials.",
-    "Spanish Example":"Reemplaza los guantes despu\u00e9s de manipular materiales contaminados.",
-    "Cross References":"dispose, clean",
-    "Notes":"Ensures continued hygiene."
-  },
-  {
-    "English Term":"rig",
-    "Part of Speech":"n.",
-    "Spanish Term":"estructura",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Clean the rig thoroughly to remove any contamination.",
-    "Spanish Example":"Limpia la estructura a fondo para eliminar cualquier contaminaci\u00f3n.",
-    "Cross References":"hardware, cord",
-    "Notes":"Part of the suspension equipment."
+    "Notes":null
   },
   {
     "English Term":"rig plate",
@@ -778,29 +690,29 @@
     "English Example":"Aluminum climbing rig plates are rated for human load.",
     "Spanish Example":"Las placas de anclaje de aluminio para escalada est\u00e1n clasificadas para carga humana.",
     "Cross References":"See: hardware",
-    "Notes":"Used for load distribution"
+    "Notes":null
   },
   {
     "English Term":"rigger",
     "Part of Speech":"n.",
     "Spanish Term":"aparejador",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"The rigger must inspect all equipment before setup.",
     "Spanish Example":"El aparejador debe inspeccionar todo el equipo antes de la instalaci\u00f3n.",
     "Cross References":"See: competent person",
-    "Notes":"Different types include head rigger, top rigger, ground rigger"
+    "Notes":null
   },
   {
     "English Term":"rigger\u2019s gloves",
     "Part of Speech":"n.",
     "Spanish Term":"guantes de aparejador",
-    "Category":"Safety",
-    "Subcategory":null,
+    "Category":"Rigging",
+    "Subcategory":"PPE",
     "English Example":"Rigger\u2019s gloves should be worn to ensure hand safety.",
     "Spanish Example":"Se deben usar guantes de aparejador para garantizar la seguridad de las manos.",
     "Cross References":"harness, belayer",
-    "Notes":"Protect against abrasion and rope burns."
+    "Notes":null
   },
   {
     "English Term":"round sling",
@@ -811,40 +723,51 @@
     "English Example":"Check the round sling's rating before use.",
     "Spanish Example":"Verifica la clasificaci\u00f3n de la eslinga redonda antes de usar.",
     "Cross References":"See: sewn runner",
-    "Notes":"Strength varies by configuration"
+    "Notes":null
   },
   {
     "English Term":"safety factor",
     "Part of Speech":"n.",
     "Spanish Term":"factor de seguridad",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Maintain a factor of safety of 10 for all suspensions.",
     "Spanish Example":"Mantener un factor de seguridad de 10 para todas las suspensiones.",
     "Cross References":"See: WLL, MBS",
-    "Notes":"Ratio between WLL and failure load"
+    "Notes":null
+  },
+  {
+    "English Term":"saline wipe",
+    "Part of Speech":"n.",
+    "Spanish Term":"toallita de soluci\u00f3n salina",
+    "Category":"Infection Control",
+    "Subcategory":"General",
+    "English Example":"Use saline wipes to clean wounds.",
+    "Spanish Example":"Usa toallitas de soluci\u00f3n salina para limpiar heridas.",
+    "Cross References":"wound cleaning, bio assistant",
+    "Notes":null
   },
   {
     "English Term":"scissors",
     "Part of Speech":"n.",
     "Spanish Term":"tijeras",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Scissors are considered contaminated if in contact with used cord.",
     "Spanish Example":"Las tijeras se consideran contaminadas si entran en contacto con cuerda usada.",
     "Cross References":"hardware, clean",
-    "Notes":"Requires disinfection if reused."
+    "Notes":null
   },
   {
     "English Term":"secure",
     "Part of Speech":"v.",
     "Spanish Term":"asegurar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Secure all tools in a sterile environment.",
     "Spanish Example":"Asegura todas las herramientas en un entorno est\u00e9ril.",
     "Cross References":"fasten, check",
-    "Notes":"Prevents accidental contamination or loss."
+    "Notes":null
   },
   {
     "English Term":"sewn runner",
@@ -855,139 +778,106 @@
     "English Example":"Sewn runners are more compact than round slings.",
     "Spanish Example":"Las cintas cosidas son m\u00e1s compactas que las eslingas redondas.",
     "Cross References":"See: round sling",
-    "Notes":"Lower MBS than round slings"
+    "Notes":null
   },
   {
     "English Term":"shackle",
     "Part of Speech":"n.",
     "Spanish Term":"grillete",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use a shackle to attach the line to the hook.",
     "Spanish Example":"Usa un grillete para unir la cuerda al gancho.",
     "Cross References":"rigging, hardware",
-    "Notes":"Prevents direct contact with contamination."
+    "Notes":null
   },
   {
     "English Term":"sharps container",
     "Part of Speech":"n.",
     "Spanish Term":"contenedor de objetos punzocortantes",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Dispose of used needles in a designated sharps container.",
     "Spanish Example":"Elimina las agujas usadas en un contenedor de objetos punzocortantes.",
     "Cross References":"dispose, needle",
-    "Notes":"Prevents injury and contamination."
+    "Notes":null
   },
   {
     "English Term":"single-use",
     "Part of Speech":"adj.",
     "Spanish Term":"de un solo uso",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Exam gloves are single-use and must be disposed of after handling.",
     "Spanish Example":"Los guantes de examen son de un solo uso y deben desecharse despu\u00e9s de usarlos.",
     "Cross References":"disposable, sterile",
-    "Notes":"Prevents reuse and contamination."
+    "Notes":null
   },
   {
     "English Term":"skin preparation",
     "Part of Speech":"n.",
     "Spanish Term":"preparaci\u00f3n de la piel",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Proper skin preparation ensures asepsis before piercing.",
     "Spanish Example":"La preparaci\u00f3n adecuada de la piel garantiza la asepsia antes de perforar.",
     "Cross References":"piercing, sterile gloves",
-    "Notes":"Includes cleaning, disinfecting, and marking."
-  },
-  {
-    "English Term":"snap lock bag",
-    "Part of Speech":"n.",
-    "Spanish Term":"bolsa con cierre herm\u00e9tico",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Place hooks in a snap lock bag for personal use.",
-    "Spanish Example":"Coloca los ganchos en una bolsa con cierre herm\u00e9tico para uso personal.",
-    "Cross References":"hook processing, clean assistant",
-    "Notes":"Used for storing and transporting hooks."
+    "Notes":null
   },
   {
     "English Term":"static load",
     "Part of Speech":"n.",
     "Spanish Term":"carga est\u00e1tica",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Calculate the static load before beginning the suspension.",
     "Spanish Example":"Calcula la carga est\u00e1tica antes de comenzar la suspensi\u00f3n.",
     "Cross References":"See: dynamic load, peak load",
-    "Notes":"Force from stationary suspended weight"
+    "Notes":null
   },
   {
     "English Term":"sterile",
     "Part of Speech":"adj.",
     "Spanish Term":"est\u00e9ril",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use sterile gloves during piercing procedures.",
     "Spanish Example":"Usa guantes est\u00e9riles durante los procedimientos de perforaci\u00f3n.",
     "Cross References":"clean, aseptic",
-    "Notes":"Free from microorganisms."
-  },
-  {
-    "English Term":"sterile drape",
-    "Part of Speech":"n.",
-    "Spanish Term":"campo est\u00e9ril",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Place a sterile drape on the work surface before piercing.",
-    "Spanish Example":"Coloca un campo est\u00e9ril en la superficie de trabajo antes de perforar.",
-    "Cross References":"piercing, gauze",
-    "Notes":"Protects tools and supplies from contamination."
+    "Notes":null
   },
   {
     "English Term":"sterile field",
     "Part of Speech":"n.",
     "Spanish Term":"campo est\u00e9ril",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Peel open supplies onto a sterile field to prevent contamination.",
     "Spanish Example":"Abre los suministros en un campo est\u00e9ril para prevenir la contaminaci\u00f3n.",
     "Cross References":"sterile drape, gloves",
-    "Notes":"Ensures all tools remain sterile during procedures."
-  },
-  {
-    "English Term":"saline wipe",
-    "Part of Speech":"n.",
-    "Spanish Term":"toallita de soluci\u00f3n salina",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Use saline wipes to clean wounds.",
-    "Spanish Example":"Usa toallitas de soluci\u00f3n salina para limpiar heridas.",
-    "Cross References":"wound cleaning, bio assistant",
-    "Notes":"Gentle and sterile cleaning option."
+    "Notes":null
   },
   {
     "English Term":"surface",
     "Part of Speech":"n.",
     "Spanish Term":"superficie",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Clean the surface of the table with disinfectant wipes.",
     "Spanish Example":"Limpia la superficie de la mesa con toallitas desinfectantes.",
     "Cross References":"disinfect, wipe",
-    "Notes":"Essential part of maintaining sterility."
+    "Notes":null
   },
   {
     "English Term":"suture kit",
     "Part of Speech":"n.",
     "Spanish Term":"kit de sutura",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Use the suture kit when stitching wounds.",
     "Spanish Example":"Usa el kit de sutura al coser heridas.",
     "Cross References":"suturing protocol, sterile field",
-    "Notes":"Contains sterile items for wound closure."
+    "Notes":null
   },
   {
     "English Term":"swivel",
@@ -998,29 +888,29 @@
     "English Example":"Install a swivel to prevent line twist.",
     "Spanish Example":"Instala un eslab\u00f3n giratorio para prevenir la torsi\u00f3n de la l\u00ednea.",
     "Cross References":"See: hardware",
-    "Notes":"Minimum 24kN MBS required"
-  },
-  {
-    "English Term":"visible blood",
-    "Part of Speech":"n.",
-    "Spanish Term":"sangre visible",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Wipe away any visible blood from the suspendee carefully.",
-    "Spanish Example":"Limpia cuidadosamente cualquier sangre visible del suspendido.",
-    "Cross References":"wound, clean",
-    "Notes":"Avoid spreading contamination."
+    "Notes":null
   },
   {
     "English Term":"wash",
     "Part of Speech":"v.",
     "Spanish Term":"lavar",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Wash your hands before donning gloves.",
     "Spanish Example":"L\u00e1vate las manos antes de ponerte los guantes.",
     "Cross References":"disinfect, clean",
-    "Notes":"Follow WHO handwashing guidelines."
+    "Notes":null
+  },
+  {
+    "English Term":"waste bin",
+    "Part of Speech":"n.",
+    "Spanish Term":"contenedor de residuos",
+    "Category":"Infection Control",
+    "Subcategory":"General",
+    "English Example":"Dispose of contaminated waste in the waste bin.",
+    "Spanish Example":"Elimina los residuos contaminados en el contenedor de residuos.",
+    "Cross References":"contaminated waste, disposal",
+    "Notes":null
   },
   {
     "English Term":"water knot",
@@ -1031,61 +921,28 @@
     "English Example":"Use a water knot to create a continuous loop.",
     "Spanish Example":"Usa un nudo de agua para crear un bucle continuo.",
     "Cross References":"See: knot, termination",
-    "Notes":"Used for joining ends"
-  },
-  {
-    "English Term":"wet wipe",
-    "Part of Speech":"n.",
-    "Spanish Term":"toallita h\u00fameda",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Use a wet wipe to clean around the wound.",
-    "Spanish Example":"Usa una toallita h\u00fameda para limpiar alrededor de la herida.",
-    "Cross References":"wound cleaning, bio assistant",
-    "Notes":"For cleaning and maintaining hygiene."
-  },
-  {
-    "English Term":"wipe",
-    "Part of Speech":"v.",
-    "Spanish Term":"limpiar",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Wipe all surfaces with a disinfectant wipe after use.",
-    "Spanish Example":"Limpia todas las superficies con una toallita desinfectante despu\u00e9s de usarlas.",
-    "Cross References":"disinfect, clean",
-    "Notes":"Part of the cleaning process."
+    "Notes":null
   },
   {
     "English Term":"work tray",
     "Part of Speech":"n.",
     "Spanish Term":"bandeja de trabajo",
     "Category":"Infection Control",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Open sterile supplies on a clean work tray.",
     "Spanish Example":"Abre suministros est\u00e9riles en una bandeja de trabajo limpia.",
     "Cross References":"sterile field, setup",
-    "Notes":"Used for maintaining sterility."
+    "Notes":null
   },
   {
     "English Term":"working load limit (WLL)",
     "Part of Speech":"n.",
     "Spanish Term":"l\u00edmite de carga de trabajo",
     "Category":"Rigging",
-    "Subcategory":null,
+    "Subcategory":"General",
     "English Example":"Never exceed the working load limit of any component.",
     "Spanish Example":"Nunca excedas el l\u00edmite de carga de trabajo de ning\u00fan componente.",
     "Cross References":"See: MBS, factor of safety",
-    "Notes":"Maximum allowable weight as defined by manufacturer"
-  },
-  {
-    "English Term":"yellow waste bin",
-    "Part of Speech":"n.",
-    "Spanish Term":"contenedor de residuos amarillos",
-    "Category":"Infection Control",
-    "Subcategory":null,
-    "English Example":"Dispose of contaminated waste in the yellow waste bin.",
-    "Spanish Example":"Elimina los residuos contaminados en el contenedor de residuos amarillos.",
-    "Cross References":"contaminated waste, disposal",
-    "Notes":"Designated for infectious waste."
+    "Notes":null
   }
 ]
