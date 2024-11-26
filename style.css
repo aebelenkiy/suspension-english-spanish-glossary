@@ -36,6 +36,9 @@ h1 {
 thead {
   background-color: #343a40;
   color: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 thead th {
@@ -138,4 +141,95 @@ footer {
   .filter-bar label {
     margin-bottom: 5px;
   }
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+body.dark-mode h1 {
+  color: #fff;
+}
+
+body.dark-mode #glossary-table {
+  background-color: #333;
+  color: #fff;
+}
+
+body.dark-mode tbody tr:hover {
+  background-color: #444;
+}
+
+body.dark-mode td {
+  border-color: #444;
+}
+
+body.dark-mode .term {
+  color: #fff;
+}
+
+body.dark-mode .part-of-speech,
+body.dark-mode .example {
+  color: #adb5bd;
+}
+
+/* Dark mode button styles */
+#dark-mode-toggle {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+body.dark-mode #dark-mode-toggle {
+  background-color: #333;
+  color: #fff;
+  border-color: #666;
+}
+
+body.dark-mode thead {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+body.dark-mode #glossary-table {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* For mobile view in dark mode */
+@media (max-width: 768px) {
+  body.dark-mode tbody tr {
+    background-color: #333;
+    border-color: #444;
+  }
+
+  body.dark-mode tbody td::before {
+    color: #adb5bd;
+  }
+}
+
+/* Adjust cross references in dark mode */
+body.dark-mode .cross-ref {
+  color: #66b0ff;
+}
+
+body.dark-mode .cross-ref:hover {
+  color: #99ccff;
+}
+
+body.dark-mode #glossary-table td {
+  background-color: #333;
+  border-color: #444;
+}
+
+body.dark-mode tbody tr:nth-child(even) td {
+  background-color: #2a2a2a;  /* slightly darker for alternating rows */
+}
+
+body.dark-mode tbody tr:hover td {
+  background-color: #444;  /* darker hover state */
+}
+
+body.dark-mode td[data-label="Category"] {
+  color: #fff;  /* or #e9ecef for slightly softer white */
 }

@@ -1,6 +1,7 @@
 // Variable to store glossary data
 let data = [];
 let posSortAsc = true; // State to track sort direction
+let isDarkMode = localStorage.getItem('darkMode') === 'true';
 
 // Function to render the table rows dynamically
 const renderTable = (filteredData) => {
@@ -60,6 +61,15 @@ const filterByCategory = (selectedCategory) => {
     : data;
 };
 
+// Function to toggle dark mode
+const toggleDarkMode = () => {
+  isDarkMode = !isDarkMode;
+  document.body.classList.toggle('dark-mode', isDarkMode);
+  localStorage.setItem('darkMode', isDarkMode);
+  const button = document.getElementById('dark-mode-toggle');
+  button.innerHTML = isDarkMode ? '☀️ Light Mode' : '🌙 Dark Mode';
+};
+
 // Wrap the fetch and initialization code in DOMContentLoaded event
 document.addEventListener('DOMContentLoaded', () => {
   fetch('glossary.json')
@@ -89,6 +99,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Add sorting functionality
       addSortingListeners();
+
+      // Initialize dark mode from localStorage
+      if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+        document.getElementById('dark-mode-toggle').innerHTML = '☀️ Light Mode';
+      }
+
+      // Add dark mode toggle listener
+      document.getElementById('dark-mode-toggle').addEventListener('click', toggleDarkMode);
     })
     .catch(error => console.error('Error loading glossary data:', error));
 });
